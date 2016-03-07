@@ -1,0 +1,43 @@
+{
+	"statuses": [
+		{
+			"Id": "1",
+			"profileImageUrl": "http://192.168.1.208/profileImage/1.jpg",
+			"mbtype": "http://192.168.1.208/mbtype/mbtype@2x.png",
+			"source": "iPhone 6",
+			"createdAt": "9:00",
+			"text": "第一段：好长的文本描述啊，真的好长好长...",
+			"user": {
+				"Id": "1",
+				"name": "冰儿",
+				"city": "北京"
+			}
+		},
+		{
+			"Id": "2",
+			"profileImageUrl": "http://192.168.1.208/profileImage/2.jpg",
+			"mbtype": "http://192.168.1.208/mbtype/mbtype@2x.png",
+			"source": "iPhone 6",
+			"createdAt": "9:00",
+			"text": "第二段：好长的文本描述啊，真的好长好长...",
+			"user": {
+				"Id": "2",
+				"name": "丽丽",
+				"city": "上海"
+			}
+		},
+		{
+			"Id": "3",
+			"profileImageUrl": "http://192.168.1.208/profileImage/3.jpg",
+			"mbtype": "http://192.168.1.208/mbtype/mbtype@2x.png",
+			"source": "iPhone 6",
+			"createdAt": "9:00",
+			"text": "第三段：好长的文本描述啊，真的好长好长...",
+			"user": {
+				"Id": "3",
+				"name": "春娇",
+				"city": "广州"
+			}
+		}
+	]
+}
